@@ -23,6 +23,7 @@ skip_before_action :authorized, only: [:index, :create]
 
     @deal = Deal.create(admin_id: current_user.id, title: params[:title], address: params[:address], lng: params[:lng].to_f, lat: params[:lat].to_f, deal_day: params[:date], description: params[:description], img_link: params[:img_link])
 
+    # {todays_deals: DealManager.todays_deals, former_deals: DealManager.former_deals, future_deals: DealManager.former_deals}
     render json: @deal, status: 200
   end
 
