@@ -1,24 +1,24 @@
-# README
+# Tracto Back End
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web and mobile app that allows businesses to post temporary deals to drive foot traffic
 
-Things you may want to cover:
+This is the back end portion of a cross platform deal app.
 
-* Ruby version
+The mobile portal can be found <a href="https://github.com/mgaspari/final_frontend_rn">here</a>
 
-* System dependencies
+The web portal can be found <a href="https://github.com/mgaspari/final_frontend">here</a>
+<br/>
 
-* Configuration
+## Businesses Can Create and View Deals On The Web Platform
+<img src='http://res.cloudinary.com/mgaspari/image/upload/v1511983968/Screen_Shot_2017-11-29_at_2.32.28_PM_iw986y.png'/>
 
-* Database creation
+## Users Can Signup
+<br/>
+<img src='http://res.cloudinary.com/mgaspari/image/upload/v1511982216/Screen_Shot_2017-11-29_at_2.03.06_PM_gk2fw4.png'/>
+<br/>
+<br/>
 
-* Database initialization
+## Users Can Find Deals Around Them
+<br/>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src='http://res.cloudinary.com/mgaspari/image/upload/v1511982090/Screen_Shot_2017-11-29_at_2.00.39_PM_qx77l0.png'/>
